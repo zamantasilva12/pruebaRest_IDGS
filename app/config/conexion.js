@@ -11,5 +11,5 @@ module.exports = {
                 console.log('la conexión se realizó de manera correcta');
             })
             .catch(e => { console.log('error en la conexión', e) })
-    }
+   }
 }
